@@ -1,0 +1,17 @@
+.search {
+    margin-top: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+td:nth-of-type(n+1) {
+  width: 200px !important;
+  height: 200px !important;
+}
